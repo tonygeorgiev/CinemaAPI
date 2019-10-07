@@ -1,0 +1,12 @@
+C:\Users\Antonii\Desktop\repo\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\CinemAPI.Models.Contracts\bin\Debug\CinemAPI.Models.Contracts.dll
+C:\Users\Antonii\Desktop\repo\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\CinemAPI.Models.Contracts\bin\Debug\CinemAPI.Models.Contracts.pdb
+C:\Users\Antonii\Desktop\repo\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.csprojAssemblyReference.cache
+C:\Users\Antonii\Desktop\repo\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Antonii\Desktop\repo\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.dll
+C:\Users\Antonii\Desktop\repo\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\ikarimanov_ultraplay-cinemapi-2ac36e5d4762\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.pdb
+C:\Users\Antonii\Desktop\repo\Cinema\CinemAPI.Models.Contracts\bin\Debug\CinemAPI.Models.Contracts.dll
+C:\Users\Antonii\Desktop\repo\Cinema\CinemAPI.Models.Contracts\bin\Debug\CinemAPI.Models.Contracts.pdb
+C:\Users\Antonii\Desktop\repo\Cinema\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.csprojAssemblyReference.cache
+C:\Users\Antonii\Desktop\repo\Cinema\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Antonii\Desktop\repo\Cinema\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.dll
+C:\Users\Antonii\Desktop\repo\Cinema\CinemAPI.Models.Contracts\obj\Debug\CinemAPI.Models.Contracts.pdb
